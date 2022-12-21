@@ -2,12 +2,7 @@
 
 ## Run project
 
-1. Go to react-test folder:
-```bash
-cd react-test
-```
-
-2. Install dependencies:
+1. Install dependencies:
 
 ```bash
 npm install
@@ -21,4 +16,4 @@ First, run the development server:
 npm run start
 ```
 
-3. Go to localhost:3000
+2. Go to localhost:3000
